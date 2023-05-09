@@ -10,4 +10,3 @@ public class Main {
         System.out.printf("%s%n", tvs);
     }
 }
-w
